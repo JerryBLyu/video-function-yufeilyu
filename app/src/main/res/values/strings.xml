@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ExpeditionSupportApp</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="Blogs">Blogs</string>
+    <string name="About"><u>About</u></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Aboutkate">As an explorer/adventurer, Kate has cycled a distance greater than twice around the world at the Equator. On August 16th 2010
+                            she became the first person to cycle an
+                            unbroken line from Africa’s most westerly to
+                            its most easterly points; from Pointe des
+                            Almadies, Senegal to Cape Hafun, Puntland,
+                            Somalia.<font color='#F39324'><u> Read more here. </u></font> </string>
+
+    <string name="exploration">Exploration is the driving force behind humankind. We have been exploring since the dawn of time, because it is at the centre of everything we do.
+                               From birth, we learn through experience and we can make better decisions tomorrow from the information
+                               we have unearthed today. <font color='#F39324'><u> Read more here. </u></font> </string>
+
+    <string name="team">Annie Woollard is writing the curriculum and managing the programme as Kate performs her expeditions.
+                        Annie is a Teach Sustainable Development Goals
+                        (SDGs) Ambassador and an Australian educator
+                        with a background that encompasses; Primary
+                        teaching in both private and public sector schools.
+                        <font color='#F39324'><u> Read more here. </u></font> </string>
+
+</resources>
